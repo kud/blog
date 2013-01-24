@@ -14,6 +14,13 @@ $ submarine -l fr *.avi
 
 It will search all french subtitles for every avi file. Isn't it great? No stupid gui, no adware, no bullshit; plus it's open source. \o/
 
+### Quick install with Homebrew
+
+```
+$ brew tap orpiske/alt
+$ brew install submarine
+```
+
 ### Man
 
     $ submarine
